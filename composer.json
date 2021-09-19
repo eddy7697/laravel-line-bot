@@ -19,11 +19,11 @@
     "require": {
         "php": "^7.1",
         "facade/ignition-contracts": "^1.0",
-        "illuminate/console": "~5.7|~5.8|^6.0",
-        "illuminate/contracts": "~5.7|~5.8|^6.0",
-        "illuminate/database": "~5.7|~5.8|^6.0",
-        "illuminate/http": "~5.7|~5.8|^6.0",
-        "illuminate/support": "~5.7|~5.8|^6.0",
+        "illuminate/console": "^6.0|^7.0|^8.0",
+        "illuminate/contracts": "^6.0|^7.0|^8.0",
+        "illuminate/database": "^6.0|^7.0|^8.0",
+        "illuminate/http": "^6.0|^7.0|^8.0",
+        "illuminate/support": "^6.0|^7.0|^8.0",
         "linecorp/line-bot-sdk": "^4.1"
     },
     "require-dev": {
